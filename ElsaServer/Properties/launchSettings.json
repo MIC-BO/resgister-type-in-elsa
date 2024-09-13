@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ElsaServer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:62976;http://localhost:62979"
+    }
+  }
+}
